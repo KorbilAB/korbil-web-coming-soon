@@ -42,7 +42,7 @@ export default defineNuxtConfig({
 
       motion: motionConfig,
 
-      version: EVersion.SEARCH,
+      version: EVersion.DEFAULT,
     }
   },
 
