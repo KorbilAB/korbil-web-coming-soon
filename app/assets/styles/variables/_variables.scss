@@ -1,0 +1,92 @@
+$ff-Poppins: 'Poppins', sans-serif;
+$ff-DMSans: 'DM Sans', sans-serif;
+
+// examples
+
+//$w-thin: 300;
+//$w-extra-light: 200;
+//$w-light: 300;
+//$w-regular: 400;
+//$w-medium: 500;
+//$w-semi-bold: 600;
+//$w-bold: 700;
+//$w-extra-bold: 800;
+//$w-black: 900;
+
+//// -----
+
+$w-Poppins-semi-bold: 600;
+$w-Poppins-bold: 700;
+
+$w-DMSans-regular: 400;
+$w-DMSans-medium: 500;
+$w-DMSans-semi-bold: 600;
+$w-DMSans-bold: 700;
+
+// - - basis
+$font-family: $ff-DMSans, sans-serif;
+$font-weight: 400;
+$font-size: 16px;
+$line-height: 1.375;
+$letter-spacing: 0;
+
+//// -----
+
+$c-gray-black: #111111;
+$c-gray: #555555;
+//$c-gray-dark: #171717;
+//$c-gray: #212121;
+$c-gray-light: #737373;
+$c-gray-lighter: #DBDBDC;
+$c-gray-lightest: #F5F5F5;
+
+$c-teal-dark: #01353B;
+$c-teal: #00545D;
+$c-teal-semi-light: #006972;
+$c-teal-light: #7FA6AA;
+$c-teal-lighter: #B3D9DB;
+$c-teal-lightest: #CCE7E9;
+
+$c-orange: #E35F00;
+
+$c-error: #D60E0E;
+
+//// -----
+
+
+$xs: 520px;
+$sm: 768px;
+$md: 1024px;
+$lg: 1200px;
+$xl: 1440px;
+$xxl: 1728px;
+
+//// -----
+
+$min-width: 375px;
+$max-width: 1200px;
+$max-width-small: 960px;
+
+// -----
+
+$side-padding: 32px;
+$side-padding-lg: 24px;
+$side-padding-md: 18px;
+$side-padding-sm: 16px;
+$side-padding-xs: 16px;
+
+// -----
+
+$radius: 8px;
+$radius-l: 16px;
+$radius-xl: 24px;
+
+// -----
+
+$time: 0.15s;
+$time-modal: 0.2s;
+
+// -----
+
+$header-height: 88px;
+$header-height-mob: 60px;

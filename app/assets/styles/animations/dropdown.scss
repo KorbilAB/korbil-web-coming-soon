@@ -1,0 +1,12 @@
+@use "../variables/_variables" as *;
+
+.dropdown-enter-active,
+.dropdown-leave-active {
+  transition: opacity $time-modal, transform $time-modal;
+}
+
+.dropdown-enter-from,
+.dropdown-leave-to {
+  opacity: 0;
+  transform: translateY(-8px);
+}

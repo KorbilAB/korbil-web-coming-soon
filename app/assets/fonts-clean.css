@@ -1,0 +1,21 @@
+/* Очищаємо fallback від Nuxt Fonts */
+@layer base {
+    [data-font-fallback] {
+        font-family: unset !important;
+    }
+}
+
+/* 🔥 Опціонально — переозначаємо font-face самі */
+@font-face {
+    font-family: 'Poppins';
+    src: url('/_fonts/Poppins-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    src: url('/_fonts/DM-Sans-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+}

@@ -1,0 +1,303 @@
+{
+  "langSelect": {
+    "options": {
+      "en": "English",
+      "sv": "Svenska"
+    }
+  },
+  "theMenu": {
+    "hero": "Home",
+    "how-it-works": "How It Works",
+    "early-access-benefits": "Join Early",
+    "frequently-asked-questions": "FAQ",
+    "blogs": "Blogs",
+    "careers": "Careers"
+  },
+  "herro-section": {
+    "title": "Find the Best Driving Schools Near You",
+    "description": "Join now to unlock early access perks.",
+    "btn": "Claim Early Access"
+  },
+  "new-herro-section": {
+    "title": "Find the Best Driving Schools Near You",
+    "description": "Compare reviews, pricing, and pass rates in your area."
+  },
+  "start-search": {
+    "note": "Select a location from the dropdown or type & press the Search button"
+  },
+  "location-search": {
+    "placeholder": "Enter your location"
+  },
+  "how-it-works-section": {
+    "subtitle": "How it works",
+    "title": "Your License Journey, Made Easy",
+    "description": "We take the hassle out of learning to drive in Sweden. Follow these three\nsteps to book lessons, track progress, and get test-ready with confidence.",
+    "list": [
+      {
+        "title": "Join the Waitlist",
+        "text": "Sign up wi th your mobile number or email to secure your spot.",
+        "link": "Join Waitlist"
+      },
+      {
+        "title": "Verify Your Details",
+        "text": "Check your inbox for a quick verification link to confirm your spot in line."
+      },
+      {
+        "title": "Get Your Beta Invite",
+        "text": "We’ll invite you to our early access app with a discounted price and money-back guarantee. You only pay the school — we take no fees."
+      },
+      {
+        "title": "Search & Enroll",
+        "text": "Find the right driving school, compare options, and enroll directly through our platform."
+      }
+    ]
+  },
+  "early-access-benefits-section": {
+    "subtitle": "Early Access Benefits",
+    "title": "Why Join Now",
+    "description": "Get early access to premium features, priority booking,\nand special discounts before our public launch.",
+    "tabs": [
+      {
+        "name": "For Learners",
+        "img": "/images/early-access-benefits-section/1.jpg",
+        "list": [
+          {
+            "title": "Early Bird Pricing",
+            "text": "Enjoy exclusive discounted rates on lesson packages during our beta phase."
+          },
+          {
+            "title": "Priority Booking Access",
+            "text": "Get first pick of lesson and test slots before the public launch."
+          },
+          {
+            "title": "Shaping the Platform",
+            "text": "Your feedback helps us build features that make your license journey easier."
+          }
+        ],
+        "btn": {
+          "text": "Join Waitlist",
+          "link": "/#wait-list"
+        }
+      },
+      {
+        "name": "For Driving Schools",
+        "img": "/images/early-access-benefits-section/2.avif",
+        "list": [
+          {
+            "title": "Free Early Access Listing",
+            "text": "Be featured on our platform at no cost during the beta phase."
+          },
+          {
+            "title": "Reach Motivated Learners",
+            "text": "Connect with students actively preparing to book lessons and tests."
+          },
+          {
+            "title": "Influence Feature Development",
+            "text": "Share feedback to shape tools that help manage your business."
+          }
+        ],
+        "contacts": {
+          "title": "Reach out to us on",
+          "email": "hej{'@'}korbil.se"
+        }
+      }
+    ]
+  },
+  "smart-features-section": {
+    "subtitle": "Smart Features",
+    "title": "Smart Features to Simplify Your License Journey",
+    "description": "Everything you need to find, book, and pass — all in one place.",
+    "items": [
+      {
+        "title": "Compare Driving Schools",
+        "text": "Instantly compare prices, locations, and pass rates to find your perfect match."
+      },
+      {
+        "title": "Secure Bookings",
+        "text": "Reserve lessons and tests in just a  few clicks — safe, simple, and  hassle-free."
+      },
+      {
+        "title": "Access Anywhere",
+        "text": "Manage lessons and progress  anytime on your phone, tablet,  or computer."
+      },
+      {
+        "title": "Progress Tracking",
+        "text": "Watch your readiness score  improve after each lesson so you  know when to book your test."
+      },
+      {
+        "title": "Smart Reminders",
+        "text": "Never miss a class, test, or deadline with automated alerts and  updates."
+      }
+    ]
+  },
+  "about-us-section": {
+    "subtitle": "About us",
+    "title": "We know the struggle — we’ve lived it.",
+    "description": "We’ve been through the stressful Swedish license process ourselves — the long waits, the scarce test slots, and the costly retakes. Körbil is the platform we wish we had, designed to make your journey to a driver’s license smoother, faster, and stress-free.",
+    "comment": "We built Körbil to take the frustration out of  getting your license. Every feature is  designed to save you time, money, and give  you the confidence to pass.",
+    "comment-author": "- Körbil Team -"
+  },
+  "faq-section": {
+    "title": "Frequently asked Questions",
+    "list": [
+      {
+        "title": "What is Korbil?",
+        "text": "Korbil is an AI-powered platform designed to modernize driving education by connecting students and driving schools through smart, user-friendly tools."
+      },
+      {
+        "title": "Who can use Korbil?",
+        "text": "Korbil is built for both students who want to learn driving and schools looking to streamline their operations."
+      },
+      {
+        "title": "Can driving schools partner with Korbi",
+        "text": "Absolutely. Driving schools can book a demo to see how Korbil can help them manage lessons, engage students, and grow their business. Reach out to us on <a href=\"mailto:skola{'@'}korbil.se\"{'>'}skola{'@'}korbil.se</a{'>'}"
+      },
+      {
+        "title": "What is Korbil?",
+        "text": "Korbil is an AI-powered platform designed to modernize driving education by connecting students and driving schools through smart, user-friendly tools."
+      }
+    ]
+  },
+  "join-wait-list-section": {
+    "subtitle": "Join Wait List",
+    "title": "Begin your path to success!"
+  },
+  "join-wait-list-form": {
+    "inputs": {
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "location": "Location",
+      "vision-test-completed": "Vision Test Completed?"
+    },
+    "placeholders": {
+      "name": "Type your name here",
+      "phone": "Enter you phone number",
+      "email": "Type your email here",
+      "location": "Select Location...",
+      "vision-test-completed": "Select Answer..."
+    },
+    "boolean-options": {
+      "true": "Yes",
+      "false": "No"
+    },
+    "btn": "Join Waitlist"
+  },
+  "the-footer": {
+    "menu": {
+      "home": "Home",
+      "how-it-works": "How it works",
+      "early-access-benefits": "Join Early",
+      "blogs": "Blogs",
+      "faq": "FAQ"
+    }
+  },
+  "blog-list-page": {
+    "title": "Blogs"
+  },
+  "careers-list-page": {
+    "title": "Join Us in Driving the Future of Learning & Mobility",
+    "description": "At Körbil, we’re building a platform that connects driving schools and learners in smarter, more accessible ways. As a fast-growing startup, we’re looking for passionate people who want to shape the future of mobility and education."
+  },
+  "careers-section": {
+    "subtitle": "Careers",
+    "title": "Current Openings"
+  },
+  "career-preview": {
+    "more-link": "Learn More"
+  },
+  "bread-crumbs": {
+    "home": "Home"
+  },
+  "schools-page": {
+    "title": "Search"
+  },
+  "risk-courses-page": {
+    "title": "Search"
+  },
+  "filter-select": {
+    "any": "Any"
+  },
+  "filter": {
+    "selects": {
+      "languages": "Course Language",
+      "city": "City",
+      "date": "Date"
+    }
+  },
+  "school-page": {
+    "header": {
+      "reviews": "{value} Reviews | {value} Review | {value} Reviews",
+      "km": "{value} km",
+      "chat-btn": "Chat"
+    },
+    "tabs": {
+      "main": "Packages & Group Lessons",
+      "about": "About"
+    }
+  },
+  "school-main-page": {
+    "packages-title": "Packages",
+    "group-lessons-title": "Group Lessons"
+  },
+  "school-package-preview": {
+    "lessons": "{value} Lessons | {value} Lesson | {value} Lessons",
+    "hours": "{value} hrs | {value} hr | {value} hrs",
+    "currency": "kr",
+    "btn": "Book"
+  },
+  "school-group-lesson-preview": {
+    "currency": "kr",
+    "btn": "Reserve a spot"
+  },
+  "course-preview": {
+    "language": "Language:",
+    "date": "Date:",
+    "time": "Time:",
+    "location": "Location:",
+    "currency": "kr",
+    "btn": "Reserve A Spot"
+  },
+  "course-sessions-list": {
+    "list-title": "Available Sessions"
+  },
+  "course-session-preview": {
+    "conducted": "Conducted in {value}",
+    "available": "spots\nnot available | {value} spot\navailable | {value} spots\navailable",
+    "btn": "Reserve A Spot"
+  },
+  "date-select": {
+    "prev-btn": "Earlier",
+    "next-btn": "Later"
+  },
+  "course-session-details": {
+    "details-title": "Course Details",
+    "date": "Date",
+    "time": "Time",
+    "conducting-in": "Conducting in",
+    "location": "Location",
+    "instructor-title": "Instructor",
+    "reviews-title": "Reviews",
+    "price": "Price",
+    "currency": "kr",
+    "btn": "Purchase Course"
+  },
+  "order-page": {
+    "details": {
+      "number-of-lessons": "Number of Lessons",
+      "duration": "Duration"
+    },
+    "summary-title": "Summary",
+    "summary": {
+      "price": "Package price",
+      "discount": "Campaign discount",
+      "fee": "Handling fee",
+      "total": "Total"
+    },
+    "payment-method-title": "Payment Method",
+    "add-payment-method-btn": "Add a payment method",
+    "price": "Price",
+    "currency": "kr",
+    "book-btn-add-payment-method-btn": "Add a payment method"
+  }
+}
