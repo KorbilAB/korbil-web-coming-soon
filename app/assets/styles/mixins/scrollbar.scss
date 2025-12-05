@@ -1,6 +1,0 @@
-@use "../variables/_variables" as *;
-
-@mixin scrollbar {
-  //scrollbar-width: thin;
-  scrollbar-color: $c-teal-dark transparent;
-}
